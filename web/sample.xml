@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+	<Customer>
+		<Name>Hepoaltrw Shuweopd</Name>
+		<Account>928734652</Account>
+		<Status>1</Status>
+		<State>TX</State>
+		<Users>
+			<User>
+				<Name>hwasher</Name>
+				<Role>1</Role>
+			</User>
+			<User>
+				<Name>tmsping</Name>
+				<Role>5</Role>
+			</User>
+		</Users>
+	</Customer>
+	<Customer>
+		<Name>Durwok Inep</Name>
+		<Account>213349076567882</Account>
+		<Status>1</Status>
+		<Users>
+			<User>
+				<Name>tubowds</Name>
+				<Role>3</Role>
+			</User>
+			<User>
+				<Name>mkappol</Name>
+				<Role>1</Role>
+			</User>
+			<User>
+				<Name>fueplmn</Name>
+				<Role>5</Role>
+			</User>
+		</Users>
+	</Customer>
+	<Customer>
+		<Name>23 Aspakaae</Name>
+		<Account>GM829-23820</Account>
+		<State>AR</State>
+		<Users>
+			<User>
+				<Name>kaseodfp</Name>
+				<Role>5</Role>
+			</User>
+			<User>
+				<Name>nkariald</Name>
+				<Role>3</Role>
+			</User>
+			<User>
+				<Name>mopbina</Name>
+				<Role>1</Role>
+			</User>
+		</Users>
+		<Locations>
+			<Location>d4nn2m32e</Location>
+			<Location>vd3aws49hj8f34</Location>
+			<Location>2kmd23m23,</Location>
+		</Locations>
+	</Customer>
+</Customers>
+

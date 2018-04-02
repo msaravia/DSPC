@@ -1,0 +1,6 @@
+CREATE DATABASE file;
+ USE file;
+CREATE TABLE XMLImport  (file_id int unsigned not null auto_increment primary key, name varchar(20) not null, value varchar(30) not null, referencefiled int);
+
+ 
+ 
