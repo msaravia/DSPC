@@ -30,13 +30,7 @@ Object.fromXML = function( source ) {
     }
 
     var result = {};
-jkk
 
-
-hjk
-jhk
-hj
-kjh
     var  nodeParent=0;
     var  nodeChild = NodeParent++;
     
